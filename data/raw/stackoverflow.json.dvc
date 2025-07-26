@@ -1,0 +1,6 @@
+outs:
+- md5: 8be0f8b785a852ad93b57dcbc31e5012
+  size: 1304871461
+  isexec: true
+  hash: md5
+  path: stackoverflow.json
