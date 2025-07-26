@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = azure://datapracticellmtuning
+    connection_string = DefaultEndpointsProtocol=https;AccountName=mlopswsh31amlsa;AccountKey=AajVcjDGsx9ZslXuKgr6v6HOD4X+phrKbA8uzCWXG9JRMsyzy4I/EgIScVYhanPlV24lv/r1OnK++AStSXwJUA==;EndpointSuffix=core.windows.net
