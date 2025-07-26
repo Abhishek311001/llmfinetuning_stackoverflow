@@ -1,0 +1,6 @@
+outs:
+- md5: 6b3f3723f12f1e68cc47fb71c355de9f.dir
+  size: 516778424
+  nfiles: 22
+  hash: md5
+  path: preprocessed_data.parquet
