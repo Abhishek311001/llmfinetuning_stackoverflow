@@ -1,0 +1,6 @@
+pyspark
+apache-airflow
+mlflow
+transformers
+datasets
+peft
